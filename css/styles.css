@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+
+.container-fluid.header {
+  height: 59.3em;
+  background: url(https://images.unsplash.com/photo-1491382825904-a4c6dca98e8c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=582f5a970b4f16236d2baac1c7f5c5e5&auto=format&fit=crop&w=1950&q=80);
+  background-position: bottom;
+}
+
+.container-fluid.introduction {
+  height: 59.3em;
+  background: rgb(245, 245, 245);
+}
+
+.carousel {
+  width: 50%;
+}
+
+.header-title {
+  margin-top: 10em;
+}
+
+.footer {
+  background: #1b1b1b;
+}
+
+.instagram-widget {
+  list-style: none;
+}
+
+.instagram-widget li {
+  display: inline-block;
+  margin-left: 1em;
+}
+
+.instagram-picture {
+  height: 5em;
+  width: auto;
+}
+
+.input-group {
+  max-width: 300px;
+  margin: auto;
+}
+
+.row.gallery {
+  background-size: cover;
+}
